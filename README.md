@@ -53,7 +53,7 @@ ln -s /opt/WebStorm-223.7571.168/bin/webstorm.sh /usr/local/bin/webstorm
 # see: https://hjoelr.medium.com/wsl2-gui-app-shortcuts-in-windows-with-wslg-fcc66d3134e7
 # DO THIS BEFORE CREATING THE DESKTOP FILE!
 cp /opt/WebStorm-223.7571.168/bin/webstorm.png /usr/share/icons/hicolor/128x128/apps/webstorm.png
-cp /opt/WebStorm-223.7571.168/bin/webstorm.svg /usr/share/icons/hicolor/scaleable/apps/webstorm.svg
+cp /opt/WebStorm-223.7571.168/bin/webstorm.svg /usr/share/icons/hicolor/scalable/apps/webstorm.svg
 
 # Creating a Linux / Windows startmenu entry
 sudo tee /usr/share/applications/webstorm.desktop <<EOF
