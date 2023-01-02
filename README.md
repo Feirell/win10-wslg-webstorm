@@ -65,7 +65,7 @@ Terminal=false
 Type=Application
 StartupNotify=true
 MimeType=text/plain;
-Icon=org.gnome.gedit
+Icon=webstorm
 Categories=TextEditor;IDE;
 EOF
 ```
